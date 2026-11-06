@@ -14,9 +14,6 @@ React - Vite - Tailwind - react-icons.
 ```bash
 git clone https://github.com/ErfanBagheri404/luminescent.git
 cd luminescent
-```
-
-```bash
 npm install
 npm run dev
 ```
